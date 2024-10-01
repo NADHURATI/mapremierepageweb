@@ -38,3 +38,33 @@ p {
 p {
     font-family: 'Times New Roman', Times, serif;
 }
+
+h1{
+    font-size: 3.5em;
+    color: #a5b4fc;
+    font-style: italic; 
+}
+
+p{
+    font-size: 1.1em;
+}
+
+li{font-size: 1em;font-family:manrope;
+a{font-size: 1em; font-family: manrope; text-decoration: none;}    
+    
+    
+}
+
+.mabordure {
+    padding: 30px;
+    background-color: indigo;
+    border: solid red;
+    border-top: 25px #EB5353 solid;
+    border-right: 20px #eb5398 solid;
+    border-bottom: 25px goldenrod solid;
+    border-left: 5px yellowgreen solid;
+    border-radius: 10px 10px 10px 10px 10px;
+}
+p{
+    color:aqua;
+}
