@@ -1,34 +1,40 @@
-h1{
-    color:blue
+h1 {
+    color: blue
 }
 
-h3{
-    color:blueviolet
+h3 {
+    color: blueviolet
 }
 
-p{
-    color:chartreuse
+p {
+    color: chartreuse
 }
 
-h4{
-    color:darkorange
+h4 {
+    color: darkorange
 }
+
 /*
 my fruit and vegetable
 */
-p{
-    color:darkmagenta;
+p {
+    color: darkmagenta;
     background-color: orange;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-/* color for maclasse */
-.maclasse{
-    color:green;
+/* color for maclasse je veux que les éléments appartiennent à la classe qui s'appelle maclasse je veux qui affiche en couleur verte*/ 
+.maclasse { 
+    color: green; 
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    text-align: left;
+    text-align: right;
+    text-align: justify;
 }
- 
 
-
-
-
-
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
