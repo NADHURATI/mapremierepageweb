@@ -39,20 +39,26 @@ p {
     font-family: 'Times New Roman', Times, serif;
 }
 
-h1{
+h1 {
     font-size: 3.5em;
     color: #a5b4fc;
-    font-style: italic; 
+    font-family: Montserrat; 
 }
 
-p{
+p {
     font-size: 1.1em;
+    font-family: Manrope;
+    color: magenta;
+    font-size: 20px;
+    padding-left: 60px;
+    padding-left: 20px;
+    font-weight: bold;
 }
 
-li{font-size: 1em;font-family:manrope;
-a{font-size: 1em; font-family: manrope; text-decoration: none;}    
-    
-    
+li {
+    font-size: 1em;
+    font-family:manrope;  
+    color: forestgreen;  
 }
 
 .mabordure {
