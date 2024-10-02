@@ -1,16 +1,17 @@
 nav {
-    border-bottom: 5px; border-bottom-style: double; border-bottom-color: royalblue;
-}
+    border-bottom: 5px solid #000000; 
+    border-radius: 50% 50%; 
+    background-color: royalblue;
+    font-size: large;
+    font-weight: bold;}
 
-li {
-    font-family: cursive; display: inline-block;
-}
+.Navigateur li {
+    display: inline-block;
+    padding-inline: 100px;}
 
-a{
-    text-decoration: none; color: firebrick;
-}
+    a {
+        color: blue;
+        text-decoration: underline;}
 
-.navigateur {
-    margin-right: 5em;
-}
+
 
