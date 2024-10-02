@@ -1,0 +1,16 @@
+nav {
+    border-bottom: 5px; border-bottom-style: double; border-bottom-color: royalblue;
+}
+
+li {
+    font-family: cursive; display: inline-block;
+}
+
+a{
+    text-decoration: none; color: firebrick;
+}
+
+.navigateur {
+    margin-right: 5em;
+}
+
