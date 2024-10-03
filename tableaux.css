@@ -6,3 +6,10 @@ td {
           border:1px solid black;
           color: crimson;
         }
+th {
+    border: 1px solid black;
+    color: black;
+}
+th {
+    background-color: brown;
+}
