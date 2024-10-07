@@ -2,3 +2,13 @@ input {
     caret-color: mediumpurple;
     font: 18px;
 }
+
+fieldset {
+    border-radius: 1px solid black;
+    background-color: blueviolet;
+}
+
+legend {
+    border-radius: 1px solid black;
+    background-color: darksalmon;
+}
