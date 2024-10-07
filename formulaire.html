@@ -1,6 +1,10 @@
-<html>
+<!DOCTYPE html>
+<html lang="fr">
+
     <head>
+        <meta charset="utf-8">
         <title>Mon formulaire</title>
+        <link href="formulaire.css" rel="stylesheet"/>
     </head>
     <boby>
         <h4>Mon formulaire</h4>
@@ -53,12 +57,47 @@
             <label>Kani kéli</label><br>
             <input type="radio"/>
             <label>Boueni</label><br>
-            
 
-
-
-            
          </form>
+
+         <caption>identifiant</caption>
+         <!-- Formulaire avec un ensemble de champs, une légende et une étiquette -->
+
+        <form>
+        
+         <fieldset>
+            
+            <legend>vos coordonnées</legend>                   
+            <label>Votre nom:</label>
+            <input type="text" name="Votre nom" placeholder="Nom"/>
+            <label>Votre prénom:</label>
+            <input type="text" name="Votre prenom" placeholder="prenom"/>
+            <label>Votre Email:</label>
+            <input type="text" name="Votre email" placeholder="email"/>
+            
+        </fieldset>
+        
+        <fieldset>
+
+                <legend>Votre souhait</legend>
+                <label>Faites un souhait que vous voudriez vouir exaucé:</label>
+                <input type="radio"/>
+                <label>être riche</label>
+                <input type="radio"/>
+                <label>être célébre</label>
+                <input type="radio"/>
+                <label>être encore plus intélligent</label>
+                <input type="radio"/>
+                <label>Autre...</label><br>
+                <label>Si "Autre, veillez préciser</label>
+                <input type="text">
+
+        </fieldset>  
+
+    </form>
+
+
+
          
     </boby>
 </html>
